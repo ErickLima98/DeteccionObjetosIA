@@ -1,0 +1,38 @@
+<annotation>
+	<folder>imagenes</folder>
+	<filename>14.jpg</filename>
+	<path>C:\Users\ASUS\Documents\URL\Septimo Semestre\Inteligencia Artificial\Proyecto\deteccion_objetos-master\imagenes\14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>girasol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>108</ymin>
+			<xmax>217</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>girasol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>2</ymin>
+			<xmax>151</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes</folder>
+	<filename>11.jpg</filename>
+	<path>C:\Users\ASUS\Documents\URL\Septimo Semestre\Inteligencia Artificial\Proyecto\deteccion_objetos-master\imagenes\11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>278</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>girasolmarchito</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>11</ymin>
+			<xmax>284</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

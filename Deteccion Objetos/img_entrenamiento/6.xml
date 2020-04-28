@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes</folder>
+	<filename>6.jpg</filename>
+	<path>C:\Users\ASUS\Documents\URL\Septimo Semestre\Inteligencia Artificial\Proyecto\deteccion_objetos-master\imagenes\6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>283</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>girasol2meses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>9</ymin>
+			<xmax>478</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>
